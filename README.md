@@ -1,2 +1,0 @@
-# Fibbonoci-generator.
-Fibbonoci generator.
